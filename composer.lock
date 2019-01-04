@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a43dced1f80f8d74a30ddda5fd269558",
+    "content-hash": "c629f4e8dc10b6fd084f8fbb7af6d3ee",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -207,13 +207,13 @@
             "version": "2.x-dev",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Rastusik/framework.git",
-                "reference": "1169ccce69c1402d9d51a06629aee8e0476e4b3c"
+                "url": "https://github.com/goaop/framework.git",
+                "reference": "811ea7a012dfd625715f0635639dc46ebad71ceb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Rastusik/framework/zipball/1169ccce69c1402d9d51a06629aee8e0476e4b3c",
-                "reference": "1169ccce69c1402d9d51a06629aee8e0476e4b3c",
+                "url": "https://api.github.com/repos/goaop/framework/zipball/811ea7a012dfd625715f0635639dc46ebad71ceb",
+                "reference": "811ea7a012dfd625715f0635639dc46ebad71ceb",
                 "shasum": ""
             },
             "require": {

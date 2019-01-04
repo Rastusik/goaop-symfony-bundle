@@ -2,14 +2,8 @@
     "name": "goaop/goaop-symfony-bundle",
     "description": "Integration bridge for Go! AOP framework",
     "type": "symfony-bundle",
-    "repositories": [
-        {
-            "type": "github",
-            "url": "https://github.com/Rastusik/framework.git"
-        }
-    ],
     "require": {
-        "goaop/framework": "2.x-dev#1169ccce69c1402d9d51a06629aee8e0476e4b3c",
+        "goaop/framework": "2.x-dev#811ea7a012dfd625715f0635639dc46ebad71ceb",
         "symfony/framework-bundle": "^2.6|^3.0|^4.0",
         "symfony/console": "^2.6|^3.0|^4.0"
     },
